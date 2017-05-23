@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+bs4
+tqdm
+scrapy
