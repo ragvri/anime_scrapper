@@ -18,14 +18,14 @@ You may give a second command line argument specifying the location where to dow
 
 To get all episodes download links as textfile 
 
-python get_epi_filelist.py <url>
+        python get_epi_filelist.py <url>
 
 url is link of anime series  having all episodes 
 
-  Eg: python get_epi_filelist.py "http://animeheaven.eu/i.php?a=Hunter%20x%20Hunter%202011%20Dubbed"
+       python get_epi_filelist.py "http://animeheaven.eu/i.php?a=Hunter%20x%20Hunter%202011%20Dubbed"
 
 To prevent scrapy log output in terminal 
 
-  python get_epi_filelist.py "http://animeheaven.eu/i.php?a=Hunter%20x%20Hunter%202011%20Dubbed"  2> /dev/null
+       python get_epi_filelist.py "http://animeheaven.eu/i.php?a=Hunter%20x%20Hunter%202011%20Dubbed"  2> /dev/null
 
  
