@@ -1,6 +1,6 @@
 # Anime_scrapper 
 
-Allows you to download all episodes of a series from animeheaven.eu . 
+This Allows you to download all episodes of a series from animeheaven.eu . 
 
 First install the required modules 
 
