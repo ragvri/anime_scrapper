@@ -1,6 +1,6 @@
 # Anime_scrapper 
 
-Allows you to download all episodes of a series from animeheaven.eu . 
+This allows you to download all episodes of a series from animeheaven.eu . 
 
 First install the required modules 
 
@@ -33,13 +33,13 @@ To download the episodes along with the file location:
       
       python3 download_episodes.py "http://animeheaven.eu/i.php?a=Hunter%20x%20Hunter%202011%20Dubbed path/to/download/file
 
-#NOTE:
+### NOTE
 Depending upon your system you may need to use `python` or `python3`
 
 # DISCLAIMER:
 
- Downloading copyrighted media without the  owner’s permission is illegal is some countries. 
+ Downloading copyrighted media without the  owner’s permission is illegal in some countries. 
  Under no circumstances is this script intended to encourage illegal activity, 
- and there are no guarantees that this information will    protect you from any legal action.   
+ and there are no guarantees that this information will protect you from any legal action.   
  
  
